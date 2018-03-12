@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg8"
+   width="233"
+   height="128"
+   viewBox="0 0 233 128"
+   sodipodi:docname="success@zz.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient37">
+      <stop
+         style="stop-color:#00c0ff;stop-opacity:1"
+         offset="0"
+         id="stop33" />
+      <stop
+         style="stop-color:#0085c8;stop-opacity:1"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37"
+       id="linearGradient39"
+       x1="73.566849"
+       y1="40.119938"
+       x2="73.566849"
+       y2="63.667484"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4532"
+       x="-0.014999969"
+       width="1.0299999"
+       y="-0.060000496"
+       height="1.120001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.58115722"
+         id="feGaussianBlur4534" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="4.5944206"
+     inkscape:cx="175.27543"
+     inkscape:cy="67.417028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <image
+     sodipodi:absref="D:\Projects\Git\Syroot.KartRider.Translator\res\patch_templates\DataRaw\stage\common\mission\success@zz.back.png"
+     xlink:href="success@zz.back.png"
+     y="0"
+     x="0"
+     id="image16"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="128"
+     width="233" />
+  <text
+     id="text43"
+     y="62.339699"
+     x="14.581826"
+     style="font-style:normal;font-weight:normal;font-size:29.53760719px;line-height:18.46100426px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.78431374;stroke:none;stroke-width:0.73844016;filter:url(#filter4532);"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;letter-spacing:-1.31864738px;fill:#000000;fill-opacity:0.78431374;stroke-width:0.73844016;"
+       y="62.339699"
+       x="14.581826"
+       id="tspan41"
+       sodipodi:role="line">Success</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:29.53760719px;line-height:18.46100426px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient39);fill-opacity:1;stroke:none;stroke-width:0.73844016"
+     x="14.581826"
+     y="61.570171"
+     id="text31"><tspan
+       sodipodi:role="line"
+       id="tspan29"
+       x="14.581826"
+       y="61.570171"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;letter-spacing:-1.31864738px;stroke-width:0.73844016;fill-opacity:1;fill:url(#linearGradient39)">Success</tspan></text>
+</svg>

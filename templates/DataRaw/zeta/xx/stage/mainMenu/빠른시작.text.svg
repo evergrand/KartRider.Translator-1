@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="221"
+   height="162.00002"
+   viewBox="0 0 58.472916 42.862503"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="빠른시작.text.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4734"
+       inkscape:collect="always">
+      <stop
+         id="stop4726"
+         offset="0"
+         style="stop-color:#ded9d9;stop-opacity:1" />
+      <stop
+         style="stop-color:#a29e9e;stop-opacity:1"
+         offset="0.5109356"
+         id="stop4728" />
+      <stop
+         style="stop-color:#ded9d9;stop-opacity:1"
+         offset="0.5109356"
+         id="stop4730" />
+      <stop
+         id="stop4732"
+         offset="1"
+         style="stop-color:#cfcbcb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4538">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4534" />
+      <stop
+         id="stop4542"
+         offset="0.5109356"
+         style="stop-color:#bababa;stop-opacity:1" />
+      <stop
+         id="stop4540"
+         offset="0.5109356"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="1"
+         id="stop4536" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4538"
+       id="linearGradient4594"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0213053,0,0,1.0213053,-2.5857123,-2.8175636)"
+       x1="126.66563"
+       y1="137.15466"
+       x2="126.66563"
+       y2="131.45131" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4538"
+       id="linearGradient4630"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0213053,0,0,1.0213053,-2.5857123,11.469935)"
+       x1="126.66563"
+       y1="137.15466"
+       x2="126.66563"
+       y2="131.45131" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4648"
+       x="-0.036193904"
+       width="1.0723878"
+       y="-0.17530415"
+       height="1.3506083">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.42546826"
+         id="feGaussianBlur4650" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4708"
+       x="-0.036193904"
+       width="1.0723878"
+       y="-0.17530415"
+       height="1.3506083">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.42546826"
+         id="feGaussianBlur4710" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4734"
+       id="linearGradient4722"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0213053,0,0,1.0213053,-2.5857123,25.757441)"
+       x1="126.66563"
+       y1="137.15466"
+       x2="126.66563"
+       y2="131.45131" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518"
+       spacingx="58.472916"
+       spacingy="14.2875"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.596878,-127.40209)">
+    <image
+       sodipodi:absref="D:\Pictures\mainMenu\빠른시작_3.png"
+       y="155.9771"
+       x="76.596878"
+       id="image4493"
+       xlink:href="file:///D:/Pictures/mainMenu/%EB%B9%A0%EB%A5%B8%EC%8B%9C%EC%9E%91_3.png"
+       style="image-rendering:optimizeSpeed;opacity:1"
+       preserveAspectRatio="none"
+       height="14.2875"
+       width="58.472916" />
+    <image
+       sodipodi:absref="D:\Pictures\mainMenu\빠른시작_1.png"
+       y="127.40209"
+       x="76.596878"
+       id="image4504"
+       xlink:href="file:///D:/Pictures/mainMenu/%EB%B9%A0%EB%A5%B8%EC%8B%9C%EC%9E%91_1.png"
+       style="image-rendering:optimizeSpeed;opacity:1"
+       preserveAspectRatio="none"
+       height="14.2875"
+       width="58.472916" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ff8585;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.44;paint-order:stroke fill markers;filter:url(#filter4708);opacity:1;"
+       x="112.7319"
+       y="136.09547"
+       id="text4658"><tspan
+         sodipodi:role="line"
+         x="112.7319"
+         y="136.09547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:none;fill-opacity:1;stroke:#ff8585;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.44;paint-order:stroke fill markers;"
+         id="tspan4656">Quick Join</tspan></text>
+    <image
+       sodipodi:absref="D:\Pictures\mainMenu\빠른시작_2.png"
+       y="141.68959"
+       x="76.596878"
+       id="image4515"
+       xlink:href="file:///D:/Pictures/mainMenu/%EB%B9%A0%EB%A5%B8%EC%8B%9C%EC%9E%91_2.png"
+       style="image-rendering:optimizeSpeed;opacity:1"
+       preserveAspectRatio="none"
+       height="14.2875"
+       width="58.472916" />
+    <text
+       id="text4592"
+       y="136.09547"
+       x="112.7319"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:url(#linearGradient4594);fill-opacity:1;stroke:#7c0000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196078;paint-order:stroke fill markers;opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan4590"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:url(#linearGradient4594);fill-opacity:1;stroke:#7c0000;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196078;paint-order:stroke fill markers;"
+         y="136.09547"
+         x="112.7319"
+         sodipodi:role="line">Quick Join</tspan></text>
+    <text
+       id="text4634"
+       y="150.38297"
+       x="112.7319"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ff6363;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.88;paint-order:stroke fill markers;filter:url(#filter4648);opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan4632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:none;fill-opacity:1;stroke:#ff6363;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.88;paint-order:stroke fill markers;"
+         y="150.38297"
+         x="112.7319"
+         sodipodi:role="line">Quick Join</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:url(#linearGradient4630);fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196078;paint-order:stroke fill markers;opacity:1;"
+       x="112.7319"
+       y="150.38297"
+       id="text4628"><tspan
+         sodipodi:role="line"
+         x="112.7319"
+         y="150.38297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:url(#linearGradient4630);fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196078;paint-order:stroke fill markers;"
+         id="tspan4626">Quick Join</tspan></text>
+    <text
+       id="text4716"
+       y="164.67047"
+       x="112.7319"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ff8585;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25999999;paint-order:stroke fill markers;filter:url(#filter4708);opacity:1;"
+       xml:space="preserve"><tspan
+         id="tspan4714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:none;fill-opacity:1;stroke:#ff8585;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25999999;paint-order:stroke fill markers;"
+         y="164.67047"
+         x="112.7319"
+         sodipodi:role="line">Quick Join</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.12499428px;line-height:6.7555089px;font-family:Dotum;-inkscape-font-specification:Dotum;text-align:center;letter-spacing:0px;word-spacing:0.08106611px;text-anchor:middle;fill:url(#linearGradient4722);fill-opacity:1;stroke:#700000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196079;paint-order:stroke fill markers;opacity:1;"
+       x="112.7319"
+       y="164.67047"
+       id="text4720"><tspan
+         sodipodi:role="line"
+         x="112.7319"
+         y="164.67047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:url(#linearGradient4722);fill-opacity:1;stroke:#700000;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90196079;paint-order:stroke fill markers;"
+         id="tspan4718">Quick Join</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+Titles
+스피드 	Speed
+ 개인전	Single
+ 팀전	Team
+
+Subtitles
+보통 /	Normal /
+빠름 /	Fast /
+매우빠름 /	Faster /
+가장빠름 /	Fastest /
+/ 초보	/ Novice
+/ 강화적용	/ Enhanced
+무한부스터	Infinite Booster

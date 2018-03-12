@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="223"
+   height="318"
+   viewBox="0 0 223 318"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="tutos.svg"
+   inkscape:export-filename="tutos.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#353638"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4499077"
+     inkscape:cx="151.23586"
+     inkscape:cy="162.41972"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid_pixel"
+       visible="true"
+       originx="-229"
+       originy="-12" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-229,-182)">
+    <image
+       sodipodi:absref="D:\Projects\Git\Syroot.KartRider.Translator\res\patch_templates\DataRaw\gui\windowTemplate\changerTuto02@zz.back.png"
+       xlink:href="changerTuto02@zz.back.png"
+       width="223"
+       height="106"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4621"
+       x="229"
+       y="394" />
+    <image
+       sodipodi:absref="D:\Projects\Git\Syroot.KartRider.Translator\res\patch_templates\DataRaw\gui\windowTemplate\changerTuto01@zz.back.png"
+       xlink:href="changerTuto01@zz.back.png"
+       width="223"
+       height="106"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4586"
+       x="229"
+       y="288" />
+    <image
+       sodipodi:absref="D:\Projects\Git\Syroot.KartRider.Translator\res\patch_templates\DataRaw\gui\windowTemplate\avoidTeamTuto01@zz.back.png"
+       xlink:href="avoidTeamTuto01@zz.back.png"
+       width="223"
+       height="106"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4547"
+       x="229"
+       y="182" />
+    <text
+       id="text4537"
+       y="263.12778"
+       x="341.64691"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.87450981;stroke:none;stroke-width:0.99999994;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87450981;stroke-width:0.99999994;"
+         y="263.12778"
+         x="341.64691"
+         id="tspan4533"
+         sodipodi:role="line">In Team Mode, UFOs, rockets, and</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87450981;stroke-width:0.99999994;"
+         id="tspan4535"
+         y="279.29175"
+         x="341.64691"
+         sodipodi:role="line">other items won't attack your team.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="340.64713"
+       y="262.12756"
+       id="text4529"><tspan
+         sodipodi:role="line"
+         id="tspan4527"
+         x="340.64713"
+         y="262.12756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">In Team Mode, UFOs, rockets, and</tspan><tspan
+         sodipodi:role="line"
+         x="340.64713"
+         y="278.29153"
+         id="tspan4531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">other items won't attack your team.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9372549;stroke:none;stroke-width:0.99999994"
+       x="372.23486"
+       y="321.09781"
+       id="text4560"><tspan
+         sodipodi:role="line"
+         x="372.23486"
+         y="321.09781"
+         id="tspan4558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.9372549;stroke-width:0.99999994">Use Item Changer</tspan></text>
+    <text
+       id="text4554"
+       y="320.09799"
+       x="371.23477"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
+         id="tspan4552"
+         y="320.09799"
+         x="371.23477"
+         sodipodi:role="line">Use Item Changer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="341.92725"
+       y="359.36179"
+       id="text4576"><tspan
+         sodipodi:role="line"
+         x="341.92725"
+         y="359.36179"
+         id="tspan4572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#050505;fill-opacity:1;stroke-width:0.99999994">You can change the item</tspan><tspan
+         id="tspan4574"
+         sodipodi:role="line"
+         x="341.92725"
+         y="375.52576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#050505;fill-opacity:1;stroke-width:0.99999994">which you collected from a cube.</tspan></text>
+    <text
+       id="text4566"
+       y="358.362"
+       x="340.92752"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
+         id="tspan4564"
+         y="358.362"
+         x="340.92752"
+         sodipodi:role="line">You can change the item</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
+         y="374.52597"
+         x="340.92752"
+         sodipodi:role="line"
+         id="tspan4570">which you collected from a cube.</tspan></text>
+    <text
+       id="text4591"
+       y="477.09781"
+       x="373.23486"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9372549;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.9372549;stroke-width:0.99999994"
+         id="tspan4589"
+         y="477.09781"
+         x="373.23486"
+         sodipodi:role="line">Use Item Changer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="372.23477"
+       y="476.09799"
+       id="text4595"><tspan
+         sodipodi:role="line"
+         x="372.23477"
+         y="476.09799"
+         id="tspan4593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">Use Item Changer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.96862745;stroke:none;stroke-width:0.99999994;"
+       x="371.2757"
+       y="427.09781"
+       id="text4611"><tspan
+         sodipodi:role="line"
+         x="371.2757"
+         y="427.09781"
+         id="tspan4609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.96862745;stroke-width:0.99999994;">Use Slot Changer</tspan></text>
+    <text
+       id="text4607"
+       y="426.09799"
+       x="370.2757"
+       style="font-style:normal;font-weight:normal;font-size:12.94235992px;line-height:16px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
+         id="tspan4605"
+         y="426.09799"
+         x="370.2757"
+         sodipodi:role="line">Use Slot Changer</tspan></text>
+  </g>
+</svg>
